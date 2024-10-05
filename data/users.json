@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "adminpass",
+      "email": "admin@gwaps.com"
+    },
+    {
+      "id": 2,
+      "username": "ramon",
+      "password": "ramonpass",
+      "email": "ramon@joseph.com"
+    }
+  ]
